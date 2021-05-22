@@ -29,3 +29,4 @@ or
 ```bash
 jupyter notebook Image Classifier Project.ipynb
 ```
+- You can train or predict on your data using train.py and predict.py

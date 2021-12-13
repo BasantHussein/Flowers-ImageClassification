@@ -3,7 +3,7 @@
 
 ### Introduction
 
-First I develop code for an image classifier built with PyTorch, then convert it into a command line application.
+Developed an image classifier built with PyTorch, then converted it into a command-line application
 
 ### Data
 
